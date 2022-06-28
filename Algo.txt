@@ -1,2 +1,4 @@
 1. Decide which business to order from
+    1a. ask for topping options
+    1b. ask for crust options
 2. Decide which type of pizza to order
